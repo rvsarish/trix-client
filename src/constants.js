@@ -1,5 +1,5 @@
 
-export const BASE_URL = 'http://localhost:5000'; 
+export const BASE_URL = 'https://vercel.com/sarish-rvs-projects/trix-server/7DNQLaMLvT2Bt2uHdywjH1QCREeH'; 
 export const PRODUCTS_URL = '/api/products';
 export const USERS_URL = '/api/users';
 export const ORDERS_URL = '/api/orders';
